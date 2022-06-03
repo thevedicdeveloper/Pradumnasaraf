@@ -3,7 +3,6 @@
 - Browser - Chrome
 - Daily.dev version- 3.16.1
 
-
 ## Comment
 
 - Instead of [Markdown supported]() text, a Markdown logo can be used. Something like this
@@ -17,15 +16,8 @@
 
 https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-8e61-70689fd0a049.mp4
 
-### 👉 Markdown Preview won't work
+### 👉 Markdown Preview doesn't work
 
 https://user-images.githubusercontent.com/51878265/171916800-1d01cc50-669e-421f-985b-fabb607642a0.mp4
 
 ![Screenshot from 2022-06-03 22-20-50](https://user-images.githubusercontent.com/51878265/171916811-170eaae1-f7bc-46e2-be2f-92e7c7c6ddc1.png)
-
-
-
-
-
-
-
