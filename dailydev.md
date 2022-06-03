@@ -5,12 +5,25 @@
 
 ## Comment
 
+**Feedback**
+
 - Instead of [Markdown supported]() text, a Markdown logo can be used. Something like this
 
- ![Untitled design (1)](https://user-images.githubusercontent.com/51878265/171915545-fd436559-8b22-4ff3-a56e-13d9f553cd22.png)
- 
-- Preview Markdown works 2/10 times
+![Untitled design](https://user-images.githubusercontent.com/51878265/171920131-0d262d99-d995-48be-8b8f-30f593e87eb3.png)
+
 - Even though images and GIFs are supported there is no place it is mentioned and an easy way to add them. I have generated a hyperlink, Something like this can be added
+
+---
+
+> BUGS
+
+### 👉 The comment window didn't completely show even on 100% screen.
+
+![Untitled design (3)](https://user-images.githubusercontent.com/51878265/171919378-6a169de4-35b8-40d6-8692-8b985e3cf32d.png)
+
+### 👉 Can't able to comment
+
+![Screenshot from 2022-06-03 21-50-49](https://user-images.githubusercontent.com/51878265/171919856-5d78deee-b087-4382-8ca8-995c8191ae9f.png)
 
 ### 👉 Upating existing comment doesn't work (Update Button)
 
@@ -18,10 +31,10 @@ https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-
 
 ### 👉 Markdown Preview doesn't work
 
+- Preview Markdown works 2/10 times
+
 https://user-images.githubusercontent.com/51878265/171916800-1d01cc50-669e-421f-985b-fabb607642a0.mp4
 
-### 👉 The comment window didn't completely show even on 100% screen.
 
-![Untitled design (3)](https://user-images.githubusercontent.com/51878265/171919378-6a169de4-35b8-40d6-8692-8b985e3cf32d.png)
 
 
