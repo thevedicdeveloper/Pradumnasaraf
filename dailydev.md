@@ -21,11 +21,13 @@
 
 ![Untitled design (3)](https://user-images.githubusercontent.com/51878265/171919378-6a169de4-35b8-40d6-8692-8b985e3cf32d.png)
 
-### 👉 Can't able to comment
+### 👉 Adding new comments don't work
 
 ![Screenshot from 2022-06-03 21-50-49](https://user-images.githubusercontent.com/51878265/171919856-5d78deee-b087-4382-8ca8-995c8191ae9f.png)
 
 ### 👉 Upating existing comment doesn't work (Update Button)
+
+- I have to refresh the page to update my comments again and again.
 
 https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-8e61-70689fd0a049.mp4
 
