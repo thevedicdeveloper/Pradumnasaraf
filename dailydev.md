@@ -20,4 +20,8 @@ https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-
 
 https://user-images.githubusercontent.com/51878265/171916800-1d01cc50-669e-421f-985b-fabb607642a0.mp4
 
-![Screenshot from 2022-06-03 22-20-50](https://user-images.githubusercontent.com/51878265/171916811-170eaae1-f7bc-46e2-be2f-92e7c7c6ddc1.png)
+### 👉 The comment window didn't completely show even on 100% screen.
+
+![Untitled design (3)](https://user-images.githubusercontent.com/51878265/171919378-6a169de4-35b8-40d6-8692-8b985e3cf32d.png)
+
+
