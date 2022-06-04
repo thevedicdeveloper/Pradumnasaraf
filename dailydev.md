@@ -9,6 +9,8 @@
 
 - Instead of [Markdown supported]() text, a Markdown logo can be used. Something like this
 
+- Instead of having two buttons, one for adding comments and one for viewing all the comments, I would like a single button, in which I can comment and view old comments at the same time (Scroll.)
+
 ![Untitled design](https://user-images.githubusercontent.com/51878265/171920131-0d262d99-d995-48be-8b8f-30f593e87eb3.png)
 
 - Even though images and GIFs are supported there is no place it is mentioned and an easy way to add them. I have generated a hyperlink, Something like this can be added
