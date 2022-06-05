@@ -12,7 +12,7 @@
 
 ## Comment
 
-<img src"=https://user-images.githubusercontent.com/51878265/172032346-17a0231c-1dbd-4718-b1c4-601dbe5cc17b.png"
+<img height="300" align="right" src="https://user-images.githubusercontent.com/51878265/172032346-17a0231c-1dbd-4718-b1c4-601dbe5cc17b.png">
 
 
 **Feedback**
@@ -21,14 +21,13 @@
 
 - Instead of having two buttons, one for adding comments and one for viewing all the comments, I would like a single button, in which I can comment and view old comments at the same time (Scroll.)
 
-![Untitled design](https://user-images.githubusercontent.com/51878265/171920131-0d262d99-d995-48be-8b8f-30f593e87eb3.png)
-
 - Even though images and GIFs are supported there is no place it is mentioned and an easy way to add them. I have generated a hyperlink, Something like this can be added
 
-- While commenting it's great to see old comments, something like scrollbar. Or somehow this two section can be meregd, sound little confusing to me.
-- 
-![Untitled design](https://user-images.githubusercontent.com/51878265/172032009-dcb94dcc-4e1a-4e66-9c86-6dc8baee3c28.png)
+<img width="800" src="https://user-images.githubusercontent.com/51878265/171920131-0d262d99-d995-48be-8b8f-30f593e87eb3.png">
 
+- While commenting it's great to see old comments, something like scrollbar. Or somehow this two section can be meregd, sound little confusing to me.
+
+<img width="800" src="https://user-images.githubusercontent.com/51878265/172032009-dcb94dcc-4e1a-4e66-9c86-6dc8baee3c28.png">
 
 ---
 
