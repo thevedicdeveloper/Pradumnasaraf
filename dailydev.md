@@ -33,7 +33,7 @@
 
 > BUGS
 
-### 👉 The comment window didn't completely show even on 100% screen.
+### 🔴 The comment window didn't completely show even on 100% screen.
 
 <details>
 <summary> Click here to see the Screenshot.</summary>
@@ -42,7 +42,7 @@
   
 </details>
 
-### 👉 Adding new comments don't work
+### 🔴 Adding new comments don't work
 
 <details>
 <summary> Click here to see the Screenshot.</summary>
@@ -52,7 +52,7 @@
 </details>
 
 
-### 👉 Upating existing comment doesn't work (Update Button)
+### 🔴 Upating existing comment doesn't work (Update Button)
 
 - I have to refresh the page to update my comments again and again.
 
@@ -63,9 +63,7 @@ https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-
   
 </details>
 
-
-
-### 👉 Markdown Preview doesn't work
+### 🔴 Markdown Preview doesn't work
 
 - Preview Markdown works 2/10 times
 
@@ -76,7 +74,7 @@ https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-
   
 </details>
 
-### 👉 Widget didn't show up
+### 🔴 Widget didn't show up
 - When I opened the the same blog next day, the widget is not showing up, I have to delete and install the extension again.
 <details>
 <summary> Click here to see the Screenshot.</summary>
