@@ -17,15 +17,13 @@
 
 **Feedback**
 
-- Instead of [Markdown supported]() text, a Markdown logo can be used. Something like this
+- Instead of [Markdown supported]() text,. A Markdown logo can be used. Something like this
 
-- Instead of having two buttons, one for adding comments and one for viewing all the comments, I would like a single button, in which I can comment and view old comments at the same time (Scroll.)
-
-- Even though images and GIFs are supported there is no place it is mentioned and an easy way to add them. I have generated a hyperlink, Something like this can be added
+- Even though images and GIFs are supported, there is no place it's mentioned, and an easy way to add them. I have generated a hyperlink from the GitHub. Something like this can be added
 
 <img width="800" src="https://user-images.githubusercontent.com/51878265/171920131-0d262d99-d995-48be-8b8f-30f593e87eb3.png">
 
-- While commenting having old comments is great, something which we scroll. Also it's not very likely first I go in `Open Summary` and see old comments and come back here again to add my comment
+- While commenting it's great, we can see history of it, something which we can scroll. Also, it's not very likely firsty I go in `Open Summary` and see old comments and come back here again to add my comment
 
 <img width="800" src="https://user-images.githubusercontent.com/51878265/172032009-dcb94dcc-4e1a-4e66-9c86-6dc8baee3c28.png">
 
@@ -33,7 +31,7 @@
 
 ### BUGS
 
-### 🔴 The comment window didn't completely show even on 100% screen.
+### 🔴 The commenting window didn't show properly on 100% screen.
 
 <details>
 <summary> Click here to see the Screenshot.</summary>
@@ -42,7 +40,7 @@
   
 </details>
 
-### 🔴 Adding new comments don't work
+### 🔴 Adding new comments doesn't work
 
 <details>
 <summary> Click here to see the Screenshot.</summary>
@@ -52,9 +50,9 @@
 </details>
 
 
-### 🔴 Upating existing comment doesn't work (Update Button)
+### 🔴 Updating existing comment doesn't work (Update Button)
 
-- I have to refresh the page to update my comments again and again.
+- I have to refresh the page again, to update my old comment.
 
 <details>
 <summary> Click here to see the Screen Recording.</summary>
@@ -75,7 +73,7 @@ https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-
 </details>
 
 ### 🔴 Widget didn't show up
-- When I opened the the same blog next day, the widget is not showing up, I have to delete and install the extension again.
+- When I opened the same blog the next day, the widget is not showing up, I have to delete and install the extension again.
 <details>
 <summary> Click here to see the Screenshot.</summary>
   
