@@ -15,30 +15,78 @@
 
 - Even though images and GIFs are supported there is no place it is mentioned and an easy way to add them. I have generated a hyperlink, Something like this can be added
 
+- While commenting it's great to see old comments, something like scrollbar. Or somehow this two section can be meregd, sound little confusing to me.
+- 
+![Untitled design](https://user-images.githubusercontent.com/51878265/172032009-dcb94dcc-4e1a-4e66-9c86-6dc8baee3c28.png)
+
+
 ---
 
 > BUGS
 
 ### 👉 The comment window didn't completely show even on 100% screen.
 
+<details>
+<summary> Click here to see the Screenshot.</summary>
+  
 ![Untitled design (3)](https://user-images.githubusercontent.com/51878265/171919378-6a169de4-35b8-40d6-8692-8b985e3cf32d.png)
+  
+</details>
 
 ### 👉 Adding new comments don't work
 
-![Screenshot from 2022-06-03 21-50-49](https://user-images.githubusercontent.com/51878265/171919856-5d78deee-b087-4382-8ca8-995c8191ae9f.png)
+<details>
+<summary> Click here to see the Screenshot.</summary>
+  
+  ![Screenshot from 2022-06-03 21-50-49](https://user-images.githubusercontent.com/51878265/171919856-5d78deee-b087-4382-8ca8-995c8191ae9f.png)
+  
+</details>
+
 
 ### 👉 Upating existing comment doesn't work (Update Button)
 
 - I have to refresh the page to update my comments again and again.
 
-https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-8e61-70689fd0a049.mp4
+<details>
+<summary> Click here to see the Screen Recording.</summary>
+  
+https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-8e61-70689fd0a049.mp4  
+  
+</details>
+
+
 
 ### 👉 Markdown Preview doesn't work
 
 - Preview Markdown works 2/10 times
 
-https://user-images.githubusercontent.com/51878265/171916800-1d01cc50-669e-421f-985b-fabb607642a0.mp4
+<details>
+<summary> Click here to see the Screen Recording.</summary>
+  
+  https://user-images.githubusercontent.com/51878265/171916800-1d01cc50-669e-421f-985b-fabb607642a0.mp4
+  
+</details>
 
+### 👉 Widget didn't show up
+- When I opened the the same blog next day, the widget is not showing up, I have to delete and install the extension again.
+<details>
+<summary> Click here to see the Screenshot.</summary>
+  
+  ![Untitled design (1)](https://user-images.githubusercontent.com/51878265/172031758-7144da80-859f-4120-b739-3b46026a085c.png)
+  
+</details>
+
+
+
+
+
+<details>
+<summary> Click here to see the Screenshot.</summary>
+</details>
+
+<details>
+<summary> Click here to see the Screen Recording.</summary>
+</details>
 
 
 
