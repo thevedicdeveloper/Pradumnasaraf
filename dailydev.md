@@ -25,7 +25,7 @@
 
 <img width="800" src="https://user-images.githubusercontent.com/51878265/171920131-0d262d99-d995-48be-8b8f-30f593e87eb3.png">
 
-- While commenting it's great to see old comments, something like scrollbar. Or somehow this two section can be meregd, sound little confusing to me.
+- While commenting having old comments is great, something which we scroll. Also it's not very likely first I go in `Open Summary` and see old comments and come back here again to add my comment
 
 <img width="800" src="https://user-images.githubusercontent.com/51878265/172032009-dcb94dcc-4e1a-4e66-9c86-6dc8baee3c28.png">
 
