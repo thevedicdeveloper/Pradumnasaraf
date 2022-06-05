@@ -31,7 +31,7 @@
 
 ---
 
-> BUGS
+### BUGS
 
 ### 🔴 The comment window didn't completely show even on 100% screen.
 
