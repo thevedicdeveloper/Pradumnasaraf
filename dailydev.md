@@ -1,7 +1,14 @@
-# Daily Dev Feeback
+<div align="center">
+  <img height="100" src="https://user-images.githubusercontent.com/51878265/172032087-4ed25a04-80df-4655-928c-4df7e35c6ead.png">
+  <h3>Daily Dev Companion Widget Feeback</h3>
+</div>
+
+<br>
+
+## Environment and system details
 - OS - Ubtntu 20.04 LTS
 - Browser - Chrome
-- Daily.dev version- 3.16.1
+- Daily.dev extension version- `3.16.1`
 
 ## Comment
 
@@ -75,18 +82,3 @@ https://user-images.githubusercontent.com/51878265/171916777-a64dc383-36b9-4351-
   ![Untitled design (1)](https://user-images.githubusercontent.com/51878265/172031758-7144da80-859f-4120-b739-3b46026a085c.png)
   
 </details>
-
-
-
-
-
-<details>
-<summary> Click here to see the Screenshot.</summary>
-</details>
-
-<details>
-<summary> Click here to see the Screen Recording.</summary>
-</details>
-
-
-
